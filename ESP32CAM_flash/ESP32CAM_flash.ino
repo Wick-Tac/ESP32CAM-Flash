@@ -9,7 +9,11 @@
 
 
 //Definición de pines
+<<<<<<< HEAD
 #define LAMP 4 //Se selecciona el pin donde se encuentra el led flash
+=======
+#define LAMP 5 //Se selecciona 
+>>>>>>> 4883003e6464b573eefc018e083519fd24cab1c1
 
 //Inicialización del programa
 void setup() //Estructura principal
